@@ -61,6 +61,10 @@
     <Compile Include="SampleData\TheChosen.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\NLipsum-master\NLipsum.Core\NLipsum.Core.csproj">
+      <Project>{800e8048-2d52-4469-baf6-6dfbb0e77fea}</Project>
+      <Name>NLipsum.Core</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CodeCamper.Model\CodeCamper.Model.csproj">
       <Project>{78325a2a-26f0-42d0-ad4b-0fde4afc8231}</Project>
       <Name>CodeCamper.Model</Name>

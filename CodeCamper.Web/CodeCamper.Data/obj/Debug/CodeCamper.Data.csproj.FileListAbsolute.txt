@@ -1,0 +1,14 @@
+C:\Users\Lee\Documents\Visual Studio 2013\Projects\CodeCamper\practice-spa\CodeCamper.Web\CodeCamper.Data\obj\Debug\CodeCamper.Data.csprojResolveAssemblyReference.cache
+C:\Users\Lee\Documents\Visual Studio 2013\Projects\CodeCamper\practice-spa\CodeCamper.Web\CodeCamper.Data\bin\Debug\CodeCamper.Data.dll.config
+C:\Users\Lee\Documents\Visual Studio 2013\Projects\CodeCamper\practice-spa\CodeCamper.Web\CodeCamper.Data\bin\Debug\CodeCamper.Data.dll
+C:\Users\Lee\Documents\Visual Studio 2013\Projects\CodeCamper\practice-spa\CodeCamper.Web\CodeCamper.Data\bin\Debug\CodeCamper.Data.pdb
+C:\Users\Lee\Documents\Visual Studio 2013\Projects\CodeCamper\practice-spa\CodeCamper.Web\CodeCamper.Data\bin\Debug\CodeCamper.Model.dll
+C:\Users\Lee\Documents\Visual Studio 2013\Projects\CodeCamper\practice-spa\CodeCamper.Web\CodeCamper.Data\bin\Debug\EntityFramework.dll
+C:\Users\Lee\Documents\Visual Studio 2013\Projects\CodeCamper\practice-spa\CodeCamper.Web\CodeCamper.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lee\Documents\Visual Studio 2013\Projects\CodeCamper\practice-spa\CodeCamper.Web\CodeCamper.Data\bin\Debug\NLipsum.Core.dll
+C:\Users\Lee\Documents\Visual Studio 2013\Projects\CodeCamper\practice-spa\CodeCamper.Web\CodeCamper.Data\bin\Debug\NLipsum.Core.pdb
+C:\Users\Lee\Documents\Visual Studio 2013\Projects\CodeCamper\practice-spa\CodeCamper.Web\CodeCamper.Data\bin\Debug\CodeCamper.Model.pdb
+C:\Users\Lee\Documents\Visual Studio 2013\Projects\CodeCamper\practice-spa\CodeCamper.Web\CodeCamper.Data\bin\Debug\EntityFramework.xml
+C:\Users\Lee\Documents\Visual Studio 2013\Projects\CodeCamper\practice-spa\CodeCamper.Web\CodeCamper.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lee\Documents\Visual Studio 2013\Projects\CodeCamper\practice-spa\CodeCamper.Web\CodeCamper.Data\obj\Debug\CodeCamper.Data.dll
+C:\Users\Lee\Documents\Visual Studio 2013\Projects\CodeCamper\practice-spa\CodeCamper.Web\CodeCamper.Data\obj\Debug\CodeCamper.Data.pdb

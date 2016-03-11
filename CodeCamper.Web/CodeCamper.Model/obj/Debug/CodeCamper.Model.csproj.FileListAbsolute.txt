@@ -1,0 +1,4 @@
+C:\Users\Lee\Documents\Visual Studio 2013\Projects\CodeCamper\practice-spa\CodeCamper.Web\CodeCamper.Model\bin\Debug\CodeCamper.Model.dll
+C:\Users\Lee\Documents\Visual Studio 2013\Projects\CodeCamper\practice-spa\CodeCamper.Web\CodeCamper.Model\bin\Debug\CodeCamper.Model.pdb
+C:\Users\Lee\Documents\Visual Studio 2013\Projects\CodeCamper\practice-spa\CodeCamper.Web\CodeCamper.Model\obj\Debug\CodeCamper.Model.dll
+C:\Users\Lee\Documents\Visual Studio 2013\Projects\CodeCamper\practice-spa\CodeCamper.Web\CodeCamper.Model\obj\Debug\CodeCamper.Model.pdb
